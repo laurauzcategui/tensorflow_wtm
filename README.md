@@ -1,6 +1,6 @@
 # Women Techmakers 2016 - Tensorflow Workshop
 
-### by [@laura_uzcategui]([https://twitter.com/laura_uzcategui)
+### by [@laura_uzcategui](http://twitter.com/laura_uzcategui)
 ### by [@allentv4u](https://twitter.com/allentv4u)
 
 
